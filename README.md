@@ -1,4 +1,4 @@
-## Spring Cloud Kubernetes
+## Spring Cloud Kubernetes Copy the [Spring Cloud Kubernetes](https://github.com/spring-cloud-incubator/spring-cloud-kubernetes)
 
 [Spring Cloud](http://projects.spring.io/spring-cloud/) integration with [Kubernetes](http://kubernetes.io/)
 
