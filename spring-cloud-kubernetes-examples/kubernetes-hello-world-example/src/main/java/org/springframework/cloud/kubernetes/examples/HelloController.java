@@ -20,7 +20,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String hello() {
-		return "Hello World Test test";
+		return "Hello World Test";
 	}
 
 	@RequestMapping("/services")
