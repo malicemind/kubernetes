@@ -20,7 +20,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String hello() {
-		return "Hello World jenkins webhook - 1";
+		return "Hello World jenkins webhook - 2";
 	}
 
 	@RequestMapping("/services")
